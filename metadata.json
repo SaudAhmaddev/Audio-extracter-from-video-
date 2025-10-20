@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Audio Extractor",
+  "description": "A simple tool to extract audio from a video file.",
+  "requestFramePermissions": []
+}
